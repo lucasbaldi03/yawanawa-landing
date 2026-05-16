@@ -1,0 +1,3 @@
+#!/bin/zsh
+cd "$(dirname "$0")"
+open -a "Google Chrome" "index.html"

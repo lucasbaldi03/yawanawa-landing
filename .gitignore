@@ -1,0 +1,4 @@
+.DS_Store
+.playwright-cli/
+.vercel/
+node_modules/
